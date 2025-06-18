@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Learn Vue.js",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Look for a job",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Forget everything"
+    }
+  ]
+}
